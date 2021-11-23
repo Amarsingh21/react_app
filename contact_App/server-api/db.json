@@ -1,0 +1,59 @@
+{
+  "contacts": [
+    {
+      "id": "d7fc167a-3523-425f-b201-bf622ddd5f12",
+      "name": " adita",
+      "email": " adita@gmail.com"
+    },
+    {
+      "id": "32bf8bc3-2871-445b-8871-4f1fce7496cb",
+      "name": " Amar",
+      "email": " amar@gmail.com"
+    },
+    {
+      "id": "1751687d-b0d5-4746-86d5-e3bc712d699a",
+      "name": " Ram",
+      "email": " ram@gmial.com"
+    },
+    {
+      "id": "291d8cc6-4b1f-4184-8caf-894b4e6545c0",
+      "name": "nira",
+      "email": " nira@gmail.com"
+    },
+    {
+      "id": "70c9c2b7-f20d-4402-9722-c209bae0692d",
+      "name": " rama",
+      "email": " rama@gmail.com"
+    },
+    {
+      "id": "c91029e9-9a69-4ba7-9255-bff00dd16f89",
+      "name": " roshan",
+      "email": " roshan@gmail.com"
+    },
+    {
+      "id": "1baa32a0-67c0-4b9e-b673-49b6a93f3c52",
+      "name": " ",
+      "email": " "
+    },
+    {
+      "id": "2c710248-1be5-41eb-8d50-7f98db944085",
+      "name": " Amar",
+      "email": " aadita@gmail.com"
+    },
+    {
+      "id": "51e6e142-2afa-4d41-8b2f-7e5d7fe303a8",
+      "name": " rama",
+      "email": " aadita@gmail.com"
+    },
+    {
+      "id": "fb7b33b9-41f2-49d3-9bca-a48e4f50fc63",
+      "name": " rama11",
+      "email": " rama11@gmail.com"
+    },
+    {
+      "id": "c5d9a705-a827-4899-93be-47cb6ca8c824",
+      "name": " ramesh",
+      "email": " ramesh@gmail.com"
+    }
+  ]
+}

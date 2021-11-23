@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "Big hitting heroics from Daryl Mitchell and James Neesham help New Zealand stun England and move into T20 World Cup final",
+            "description": "New Zealand opener Daryl Mitchell carries his bat to become a cricketing hero as the Black Caps stun England and move into the final of the Twenty20 World Cup.",
+            "url": "http://www.abc.net.au/news/2021-11-11/daryl-mitchell-new-zealand-stun-england-at-t20-world-cup/100611316",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/27456e368b0af6f672bb050f01a24ca5?impolicy=wcms_crop_resize&cropH=1625&cropW=2889&xPos=0&yPos=15&width=862&height=485",
+            "publishedAt": "2021-11-10T17:46:15Z",
+            "content": "Heroic late hitting from opening batsman Daryl Mitchell and all-rounder James Neesham has seen New Zealand claim a pulsating five-wicket Twenty20 World Cup victory over England and advance to the fin… [+739 chars]"
+        },
+        {
+            "source": {
+                "id": "ansa",
+                "name": "ANSA.it"
+            },
+            "author": "ANSA.it",
+            "title": "India:minaccia stupro figlia neonata capitano cricket, arrestato - Ultima Ora",
+            "description": "Un ingegnere elettronico è stato arrestato a Mumbai per avere minacciato di stupro la figlia neonata\r\ndi Virat Kholi, il capitano della squadra nazionale indiana di cricket. (ANSA)",
+            "url": "http://www.ansa.it/sito/notizie/topnews/2021/11/10/indiaminaccia-stupro-figlia-neonata-capitano-cricket-arrestato_77ed847e-3bfd-4668-a777-e04ad7126089.html",
+            "urlToImage": "https://www.ansa.it/webimages/img_700/2021/11/10/3339fba0af9121c1bf2e50e301ec291b.jpg",
+            "publishedAt": "2021-11-10T16:46:00Z",
+            "content": "(ANSA) - NEW DELHI, 10 NOV - Un ingegnere elettronico è stato\r\narrestato a Mumbai per avere minacciato di stupro la figlia\r\nneonata di Virat Kholi, il capitano della squadra nazionale\r\nindiana di cri… [+674 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
